@@ -1,12 +1,12 @@
 # MySegmentViewController
 3个类一句话实现iOS中的分页控制器，使用block回调，逻辑清晰  觉得不错就给个star
 
->1.效果图
+#1.Overview
 
 
  ![image](https://github.com/DpChens/MySegmentViewController/raw/master/gif/yy.gif)
 
->2.用法
+#2.Basic usage
 
 ```
 SegmentViewController *segment =[[SegmentViewController alloc] initWithTitle:@"滑动页面"andSubTitles:@[@"页面一", @"页面二",@"页面三"]andControllers:@[controller1, controller2,controller3]];
