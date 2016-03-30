@@ -14,7 +14,7 @@ SegmentViewController *segment =[[SegmentViewController alloc] initWithTitle:@"�
 
 
 
->3. 辅助功能  在UIColor+Util.h可以设置颜色，粗细
+> 辅助功能  在UIColor+Util.h可以设置颜色，粗细
 
 
 ```
